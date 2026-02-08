@@ -11,3 +11,6 @@ Eliminate "vampire" processes. If an application or service isn't actively servi
 
 Sasha's solution:
 Clear the digital friction. Delete temporary caches and ensure your primary drive has at least 15-20% free space. A crowded drive creates a bottleneck for virtual memory and file indexing.
+
+Pavlo's solution:
+Prioritize performance over efficiency
